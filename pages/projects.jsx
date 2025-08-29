@@ -102,11 +102,12 @@ export default function Projects() {
                 className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition-all duration-300"
               >
                 {/* Project Image */}
-                <div className="h-48 bg-gray-200 dark:bg-gray-700 overflow-hidden">
+                <div className="aspect-w-4 aspect-h-3 bg-gray-200 dark:bg-gray-700 overflow-hidden flex items-center justify-center">
                   <img
                     src={project.image}
                     alt={project.title}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-contain"
+                    style={{ maxHeight: '50%', maxWidth: '50%' }}
                   />
                 </div>
 

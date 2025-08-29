@@ -44,7 +44,7 @@ export default function About() {
                       src="/assets/yomex.jpeg"
                       alt="Profile Picture"
                       fill
-                      className="object-cover px-4 pt-4 rounded-t-3xl"
+                      className="px-8 pt-4 rounded-t-3xl"
                     />
                   </div>
                 </div>
