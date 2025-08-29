@@ -202,7 +202,11 @@ export default function Experience() {
               <DownloadIcon />
               Download Resume
             </button>
+
           </div>
+          
+
+   
         <Footer />
         </div>
       </div>

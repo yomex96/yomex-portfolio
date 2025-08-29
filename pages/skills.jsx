@@ -32,7 +32,7 @@ export default function Skills() {
           {
       title: 'Terraform Associate',
       provider: 'HashiCorp',
-      status: 'In View',
+      status: 'Active',
       year: '2025',
       category: 'Infrastructure as code',
       icon: '🏆',
@@ -175,12 +175,21 @@ export default function Skills() {
      {
       title: 'Terraform Associate',
       provider: 'HashiCorp',
-      status: 'In View',
+      status: 'Active',
       year: '2025',
       category: 'Infrastructure as code',
       icon: '🏆',
       color: 'bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400'
-    }, 
+    },
+    {
+      title: 'HNG Certificate of Proficiency',
+      provider: 'HNG Internship',
+      status: 'Active',
+      year: '2024',
+      category: 'DevOps',
+      icon: 'HNG',
+      color: 'bg-indigo-500 text-white'
+    },
     {
       title: 'Oracle Cloud Infrastructure Multicloud Architect Professional',
       provider: 'Oracle',
@@ -198,16 +207,8 @@ export default function Skills() {
       category: 'Containers',
       icon: '🏆',
       color: 'bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400'
-    },
-    {
-      title: 'HNG Certificate of Proficiency',
-      provider: 'HNG Internship',
-      status: 'Active',
-      year: '2024',
-      category: 'DevOps',
-      icon: 'HNG',
-      color: 'bg-indigo-500 text-white'
     }
+    
    
   ];
 

@@ -16,7 +16,7 @@ const Hero = () => {
     { icon: Linkedin, href: 'https://www.linkedin.com/in/abayomi-robert-onawole/', label: 'LinkedIn' },
     { icon: Twitter, href: 'https://www.twitter.com', label: 'Twitter' },
     { icon: ExternalLink, href: 'https://www.portfolio.com', label: 'Portfolio' },
-    { icon: Mail, href: 'mailto:abayomirobertonawole@gmail.com', label: 'Email' },
+    { icon: Mail, href: "mailto:abayomirobertonawole@gmail.com", label: 'Email' },
   ]
 
   return (
