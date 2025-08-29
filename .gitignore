@@ -22,3 +22,20 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# dependencies
+/node_modules
+
+# Next.js build output
+.next/
+
+# production
+/out
+
+# misc
+.DS_Store
+*.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
