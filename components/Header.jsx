@@ -41,7 +41,7 @@ const Header = () => {
           <div className="flex-shrink-0 animate-fade-in">
             <div className="text-2xl font-bold">
               <span className="text-primary-500">&lt;</span>
-              <span className="text-primary-600 dark:text-primary-400">Abayomi</span>
+              <span className="text-primary-600 dark:text-primary-400">Robert</span>
               <span className="text-primary-500">/&gt;</span>
             </div>
           </div>

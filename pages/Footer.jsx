@@ -6,7 +6,7 @@ export const Footer = () => {
       <div className="flex flex-col md:flex-row justify-between items-center">
         <div className="mb-4 md:mb-0">
           <h3 className="text-2xl font-bold text-blue-400 mb-2">
-            &lt;Abayomi/&gt;
+            &lt;Robert/&gt;
           </h3>
           <p className="text-xl font-bold mb-2 text-gray-400 dark:text-white">
             Empowering businesses with scalable, secure, and

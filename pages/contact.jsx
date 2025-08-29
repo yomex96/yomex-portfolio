@@ -7,8 +7,8 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "abayomi@gmail.com",
-      href: "mailto:abayomi@gmail.com"
+      value: "abayomirobertonawole@gmail.com",
+      href: "mailto:abayomirobertonawole@gmail.com"
     },
     {
       icon: Phone,
@@ -25,8 +25,8 @@ export default function Contact() {
   ]
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com/in/", label: "LinkedIn" },
+    { icon: Github, href: "https://github.com/yomex96/yomex96/blob/main/README.md", label: "GitHub" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/abayomi-robert-onawole/", label: "LinkedIn" },
     { icon: Twitter, href: "https://twitter.com/", label: "Twitter" },
   ]
 
