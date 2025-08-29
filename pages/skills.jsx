@@ -12,13 +12,13 @@ export default function Skills() {
       skills: [
         { name: 'AWS', level: 95, subtitle: 'Proficiency' },
         { name: 'Microsoft Azure', level: 60, subtitle: 'Proficiency' },
-        { name: 'GCP', level: 60, subtitle: 'Proficiency' }
+        { name: 'Oracle', level: 60, subtitle: 'Proficiency' }
       ],
       certifications: [
         {
           title: 'AWS Certified Solutions Architect',
           provider: 'Amazon Web Services',
-          status: 'In View',
+          status: 'Active',
           year: '2025',
           active: true
         },
@@ -28,7 +28,16 @@ export default function Skills() {
           status: 'Active',
           year: '2025',
           active: true
-        }
+        },
+          {
+      title: 'Terraform Associate',
+      provider: 'HashiCorp',
+      status: 'In View',
+      year: '2025',
+      category: 'Infrastructure as code',
+      icon: '🏆',
+      color: 'bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400'
+    }
       ],
       projects: [
         'Multi-region AWS infrastructure deployment with high availability and DR capabilities',
@@ -168,7 +177,16 @@ export default function Skills() {
       provider: 'HashiCorp',
       status: 'In View',
       year: '2025',
-      category: 'Containers',
+      category: 'Infrastructure as code',
+      icon: '🏆',
+      color: 'bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400'
+    }, 
+    {
+      title: 'Oracle Cloud Infrastructure Multicloud Architect Professional',
+      provider: 'Oracle',
+      status: 'In View',
+      year: '2025',
+      category: 'Cloud',
       icon: '🏆',
       color: 'bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400'
     },
@@ -177,7 +195,7 @@ export default function Skills() {
       provider: 'Cloud Native Computing Foundation',
       status: 'In View',
       year: '2025',
-      category: 'Infrastructure as code',
+      category: 'Containers',
       icon: '🏆',
       color: 'bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400'
     },
