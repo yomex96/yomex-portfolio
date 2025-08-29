@@ -11,7 +11,7 @@ export default function Skills() {
       description: 'My expertise in designing, implementing, and managing cloud infrastructure across major platforms.',
       skills: [
         { name: 'AWS', level: 95, subtitle: 'Proficiency' },
-        { name: 'Microsoft Azure', level: 60, subtitle: 'Proficiency' },
+        { name: 'Microsoft Azure', level: 70, subtitle: 'Proficiency' },
         { name: 'Oracle', level: 60, subtitle: 'Proficiency' }
       ],
       certifications: [

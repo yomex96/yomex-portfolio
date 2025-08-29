@@ -18,7 +18,7 @@ export const Footer = () => {
 {/* text-xl font-bold mb-2 text-gray-900 dark:text-white */}
         <div className="flex space-x-4 text-gray-400 dark:text-white">
           <a
-            href="https://www.github.com"
+            href="https://github.com/yomex96/yomex96"
             className="hover:text-black hover:dark:text-blue-400 transition-colors"
           >
             <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -26,7 +26,7 @@ export const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://www.linkedin.com"
+            href="https://www.linkedin.com/in/abayomi-robert-onawole/"
             className="hover:text-black hover:dark:text-blue-400 transition-colors"
           >
             <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -63,7 +63,7 @@ export const Footer = () => {
       </div>
 
       <div className="text-center text-gray-500 text-sm mt-8">
-        © 2025 Abayomi Robert Onawole (Yomex). All rights reserved.
+        © 2025 Abayomi Robert Onawole (yomex96). All rights reserved.
       </div>
     </div>
   );
