@@ -12,11 +12,11 @@ const Hero = () => {
   }, [])
 
   const socialLinks = [
-    { icon: Github, href: 'https://www.github.com', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/yomex96/yomex96/blob/main/README.md', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/abayomi-robert-onawole/', label: 'LinkedIn' },
     { icon: Twitter, href: 'https://www.twitter.com', label: 'Twitter' },
     { icon: ExternalLink, href: 'https://www.portfolio.com', label: 'Portfolio' },
-    { icon: Mail, href: 'mailto:abayomi@gmail.com', label: 'Email' },
+    { icon: Mail, href: 'mailto:abayomirobertonawole@gmail.com', label: 'Email' },
   ]
 
   return (
