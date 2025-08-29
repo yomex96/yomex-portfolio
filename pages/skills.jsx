@@ -148,7 +148,7 @@ export default function Skills() {
     {
       title: 'AWS Certified Solutions Architect',
       provider: 'Amazon Web Services',
-      status: 'In View',
+      status: 'Active',
       year: '2025',
       category: 'Cloud',
       icon: '🏆',
@@ -163,12 +163,21 @@ export default function Skills() {
       icon: '⬢',
       color: 'bg-green-100 dark:bg-green-900/20 text-green-600 dark:text-green-400'
     },
+     {
+      title: 'Terraform Associate',
+      provider: 'HashiCorp',
+      status: 'In View',
+      year: '2025',
+      category: 'Containers',
+      icon: '🏆',
+      color: 'bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400'
+    },
     {
       title: 'Kubernetes and Cloud Native Associate',
       provider: 'Cloud Native Computing Foundation',
       status: 'In View',
       year: '2025',
-      category: 'Containers',
+      category: 'Infrastructure as code',
       icon: '🏆',
       color: 'bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400'
     },
@@ -181,6 +190,7 @@ export default function Skills() {
       icon: 'HNG',
       color: 'bg-indigo-500 text-white'
     }
+   
   ];
 
   const getStatusBadge = (status) => {
