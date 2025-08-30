@@ -101,10 +101,11 @@ export default function Experience() {
             <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
               My journey in the world of DevOps and cloud engineering, solving complex infrastructure challenges
             </p>
-            <button className="bg-blue-500 hover:bg-blue-600 text-white font-medium px-6 py-3 rounded-lg flex items-center gap-2 mx-auto transition-colors duration-200">
+            {/* <button className="bg-blue-500 hover:bg-blue-600 text-white font-medium px-6 py-3 rounded-lg flex items-center gap-2 mx-auto transition-colors duration-200">
               <Download size={20} />
               Download Resume
-            </button>
+            </button> */}
+        <a href="/resume.pdf" download className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white font-medium rounded-lg shadow-md transition duration-200 no-underline"><Download size={20} /> Download Resume</a>
           </div>
 
           {/* Expertise Cards */}
@@ -198,10 +199,11 @@ export default function Experience() {
             ))}
           </div>
           <div className='flex items-center justify-center py-8'>
-            <button className="flex items-center justify-center mt-8 px-6 py-3 bg-blue-500 text-white rounded-full hover:bg-blue-600 transition">
+            {/* <button className="flex items-center justify-center mt-8 px-6 py-3 bg-blue-500 text-white rounded-full hover:bg-blue-600 transition">
               <DownloadIcon />
               Download Resume
-            </button>
+            </button> */}
+            <a href="/resume.pdf" download className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white font-medium rounded-lg shadow-md transition duration-200 no-underline"><Download size={20} /> Download Resume</a>
 
           </div>
           
