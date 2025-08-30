@@ -164,7 +164,7 @@ export default function About() {
                     <Users className="w-8 h-8 text-blue-400 dark:text-blue-400" />
                   </div>
                   <h3 className="text-xl font-bold mb-4 text-center text-gray-900 dark:text-white">
-                    ALX-Africa Cloud Mentor
+                    ALX Africa Cloud Mentor
                   </h3>
                   <p className="text-gray-700 dark:text-gray-300 text-center">
   Mentored 200+ learners in Cloud & DevOps, delivering workshops, reviews, mentorship, and guidance toward AWS certifications and careers.
