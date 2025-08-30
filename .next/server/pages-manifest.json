@@ -3,8 +3,9 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/skills": "pages/skills.js",
-  "/projects": "pages/projects.js",
-  "/about": "pages/about.js",
   "/": "pages/index.js",
-  "/contact": "pages/contact.js"
+  "/blog": "pages/blog.js",
+  "/experience": "pages/experience.js",
+  "/about": "pages/about.js",
+  "/projects": "pages/projects.js"
 }

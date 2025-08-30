@@ -32,10 +32,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/about.js"
     ],
-    "/contact": [
+    "/blog": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/contact.js"
+      "static/chunks/pages/blog.js"
+    ],
+    "/experience": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/experience.js"
     ],
     "/projects": [
       "static/chunks/webpack.js",
