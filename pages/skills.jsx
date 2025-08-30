@@ -112,9 +112,9 @@ export default function Skills() {
     'Programming': {
       description: 'Programming languages and frameworks for backend development.',
       skills: [
-        { name: 'Python', level: 95, subtitle: 'Proficiency' },
-        { name: 'JavaScript/Node.js', level: 90, subtitle: 'Proficiency' },
-        { name: 'Golang', level: 85, subtitle: 'Proficiency' }
+        { name: 'JavaScript/Node.js', level: 95, subtitle: 'Express, nest' },
+        { name: 'Python', level: 80, subtitle: 'Django, Flask' },
+        { name: 'Golang', level: 65, subtitle: 'Gin' }
       ],
       certifications: [],
       projects: [
