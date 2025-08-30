@@ -59,7 +59,7 @@ export default function Experience() {
     },
     {
       title: "DevOps Engineer",
-      company: "Xfusion Corp (Virtual)",
+      company: "Fiverr Freelancing (Remote)",
       companyType: "🏢",
       period: "Sep 2023 - Mar 2024",
       description: [
