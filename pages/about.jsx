@@ -71,6 +71,14 @@ export default function About() {
                   deeply committed to implementing DevSecOps practices that
                   embed security throughout the development lifecycle.
                 </p>
+                <p>
+                In addition to DevOps, I bring backend development experience 
+                using Node.js, Express, and Python frameworks like Django and Flask, 
+                along with databases such as MongoDB and MySQL. 
+                This allows me to build APIs and services that integrate seamlessly 
+                with cloud-native architectures, bridging development and operations.
+                </p>
+
 
                 <p>
                   Beyond the technical aspects, I enjoy collaborating with
