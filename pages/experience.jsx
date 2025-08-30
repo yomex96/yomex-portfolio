@@ -1,7 +1,7 @@
 
 import { Download, Cloud, GitBranch, Container, Code, DownloadIcon } from 'lucide-react'
 import Layout from "../components/Layout";
-import { Footer } from './Footer';
+import { Footer } from '../components/Footer';
 
 export default function Experience() {
   const expertiseAreas = [

@@ -1,5 +1,6 @@
 import { ExternalLink, Github } from "lucide-react";
-import { Footer } from "./Footer";
+import { Footer } from "../components/Footer";
+
 import { useRouter } from "next/router";
 import Layout from "../components/Layout";
 import { useTheme } from "../contexts/ThemeContext";

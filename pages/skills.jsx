@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Layout from '../components/Layout';
 import { CheckCircle, Award, Calendar, Eye, Activity } from 'lucide-react';
-import { Footer } from './Footer';
+import { Footer } from '../components/Footer';
 
 export default function Skills() {
   const [activeTab, setActiveTab] = useState('Cloud Platforms');

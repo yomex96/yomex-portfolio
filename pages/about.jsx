@@ -2,7 +2,11 @@ import { Users, Video, Cloud, Mic } from "lucide-react";
 import Layout from "../components/Layout";
 import Image from "next/image";
 import { useRouter } from "next/router";
-import { Footer } from "./Footer";
+// import { Footer } from "./Footer";
+
+import { Footer } from "../components/Footer";
+
+
 import { useTheme } from "../contexts/ThemeContext";
 
 export default function About() {

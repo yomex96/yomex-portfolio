@@ -1,6 +1,7 @@
 import Layout from '../components/Layout'
 import { Mail, Phone, MapPin, Github, Linkedin, Twitter } from 'lucide-react'
-import { Footer } from './Footer'
+import { Footer } from "../components/Footer";
+
 
 export default function Contact() {
   const contactInfo = [
