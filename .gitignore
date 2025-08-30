@@ -1,37 +1,24 @@
 # Logs
-logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 pnpm-debug.log*
-lerna-debug.log*
 
-# Dependency directories
+# Dependencies
 node_modules/
 
-# Build output
+# Build outputs
 .next/
 out/
 dist/
-dist-ssr/
 
-# Local env files (keep them safe!)
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# Local env files
+.env*
+!.env.example
 
-# Vercel local config (don’t commit)
-.vercel/
-
-# Editor & system files
-.vscode/*
-!.vscode/extensions.json
+# Editor junk
+.vscode/
 .idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
 .DS_Store
+*.suo
+*.sw?
